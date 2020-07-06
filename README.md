@@ -8,8 +8,10 @@ I'm Pranjal. A Computer Science Engineer from New Delhi, India. Besides coding, 
      <br><br>Contact me on <a href="https://twitter.com/mepranjal31">Twitter</a> or <a href="mailto:pranjalrastogi1998@gmail.com">Send an Email</a>
   </samp>
 </p>
-
-
+# Get in touch
+- LinkedIn: https://www.linkedin.com/in/pranjalrastogi31/
+- Personal site: https://prankshaw.github.io/
+<!--
 **prankshaw/prankshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
