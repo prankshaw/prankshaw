@@ -30,8 +30,9 @@
 - Personal site: https://prankshaw.github.io/ <br>
 You can contact me over any platform with an introduction about you. I will be waiting for your messages.
 
+## 🔭 My Skills
 <p align="center">
-  <img align="center" alt="Meme Studio" src="https://github.com/prankshaw/prankshaw/blob/master/img/mypack.png" />
+  <img align="center" alt="My Skills" src="https://github.com/prankshaw/prankshaw/blob/master/mypack.png" />
 </p>
 
 
