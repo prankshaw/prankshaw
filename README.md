@@ -30,6 +30,11 @@
 - Personal site: https://prankshaw.github.io/ <br>
 You can contact me over any platform with an introduction about you. I will be waiting for your messages.
 
+<p align="center">
+  <img align="center" alt="Meme Studio" src="https://github.com/prankshaw/prankshaw/blob/master/img/mypack.png" />
+</p>
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true" alt="Pranjal's Github Stats">
 
 <!--
