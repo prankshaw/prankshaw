@@ -33,13 +33,15 @@ You can contact me over any platform with an introduction about you. I will be w
 
 ## 🔭 My Skills
 <p align="center">
-  <img align="center" alt="My Skills" src="https://github.com/prankshaw/prankshaw/blob/master/mypack2.png" />
+  <img align="right" alt="My Skills" src="https://github.com/prankshaw/prankshaw/blob/master/mypack2.png" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true" alt="Pranjal's Github Stats">
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true" alt="Pranjal's Github Stats">
-</p>
 <!--
+<p align="center">
+
+</p>
+
 **prankshaw/prankshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
