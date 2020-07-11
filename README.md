@@ -15,7 +15,10 @@
 <a href="https://twitter.com/mepranjal31" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@mepranjal31"></a>
 <a href="https://medium.com/@pranjalrastogi1998" target="_blank"><img src="https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium/@pranjalrastogi1998"></a>
 
-<!--<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>-->
+
+<!--
+<a href="https://prankshaw.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="prankshaw.github.io"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>-->
 
 </div>
 
