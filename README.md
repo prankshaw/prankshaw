@@ -32,7 +32,7 @@ You can contact me over any platform with an introduction about you. I will be w
 
 ## 🔭 My Skills
 <p align="center">
-  <img align="center" alt="My Skills" src="https://github.com/prankshaw/prankshaw/blob/master/mypack.png" />
+  <img align="center" alt="My Skills" src="https://github.com/prankshaw/prankshaw/blob/master/mypack2.png" />
 </p>
 
 
