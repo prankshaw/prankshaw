@@ -32,9 +32,9 @@
 You can contact me over any platform with an introduction about you. I will be waiting for your messages.
 
 ## 🔭 My Skills
- Github Stats              |  My Skills 
+ I Know and Use            |  GitHub Stats 
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true)  |  ![](https://github.com/prankshaw/prankshaw/blob/master/mypack2.png)
+![](https://github.com/prankshaw/prankshaw/blob/master/mypack2.png)  |  ![](https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true)
 
 
 <!--
