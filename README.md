@@ -14,22 +14,24 @@
 <a href="https://medium.com/@pranjalrastogi1998" target="_blank"><img src="https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium/@pranjalrastogi1998"></a>
 <a href="https://www.instagram.com/mepranjal31" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram-@mepranjal31"></a>
 <a href="https://www.facebook.com/pranjal.rastogi.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook/Pranjal.Rastogi.5"></a>
-
-
-
 <!--
 <a href="https://prankshaw.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="prankshaw.github.io"></a>
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>-->
 
 </div>
 
-<!--### Welcomes you 👋,  -->         
 
 #### I'm a Computer Science Engineer from New Delhi, India. Besides coding, I love to read a lot and write a bit
 
 ## 📫 How to reach me: ...
+* 🔖 Discover my [Website](https://prankshaw.github.io/)<br/>
+* 💼 Hire Me [Resume](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0) <br/>
+<!--
+* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
+* 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
 - Personal site: https://prankshaw.github.io/ <br>
 You can contact me over any platform with an introduction about you. I will be waiting for your messages.
+-->
 
 ## 🔭 My Skills
  I Know and Use            |  GitHub Stats 
