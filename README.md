@@ -14,6 +14,8 @@
 - Personal site: https://prankshaw.github.io/ <br>
 You can contact me over any platform with an introduction about you. I will be waiting for your messages.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true" alt="Pranjal's Github Stats">
+
 <!--
 **prankshaw/prankshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
