@@ -9,11 +9,12 @@
 <div align="center">
   
 <a href="https://www.linkedin.com/in/pranjalrastogi31" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/pranjalrastogi31"></a>
-<a href="https://www.instagram.com/mepranjal31" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram-@mepranjal31"></a>
-<a href="https://www.facebook.com/pranjal.rastogi.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook/Pranjal.Rastogi.5"></a>
 <a href="mailto:pranjalrastogi1998@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-pranjalrastogi1998@gmail.com"></a>
 <a href="https://twitter.com/mepranjal31" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@mepranjal31"></a>
 <a href="https://medium.com/@pranjalrastogi1998" target="_blank"><img src="https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium/@pranjalrastogi1998"></a>
+<a href="https://www.instagram.com/mepranjal31" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram-@mepranjal31"></a>
+<a href="https://www.facebook.com/pranjal.rastogi.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook/Pranjal.Rastogi.5"></a>
+
 
 
 <!--
@@ -35,9 +36,9 @@ You can contact me over any platform with an introduction about you. I will be w
   <img align="center" alt="My Skills" src="https://github.com/prankshaw/prankshaw/blob/master/mypack2.png" />
 </p>
 
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true" alt="Pranjal's Github Stats">
-
+</p>
 <!--
 **prankshaw/prankshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
