@@ -1,4 +1,4 @@
-<h1 align='center'> Pranjal Rastogi <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=prankshaw.prankshaw"></a></h1>
+<h1 align='center'> Hi There! 👋<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=prankshaw.prankshaw"></a></h1>
 <p align='center'> <samp>Software Developer | Content Writer | Data Analyst</samp></p>
 <!--
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mepranjal31)](https://twitter.com/mepranjal31) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalrastogi31)](https://www.linkedin.com/in/pranjalrastogi31) [![Medium Badge](https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pranjalrastogi1998/)](https://medium.com/@pranjalrastogi1998)
@@ -22,7 +22,7 @@
 
 </div>
 
-### Welcomes you 👋,           
+<!--### Welcomes you 👋,  -->         
 
 #### I'm a Computer Science Engineer from New Delhi, India. Besides coding, I love to read a lot and write a bit
 
