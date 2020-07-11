@@ -3,7 +3,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mepranjal31)](https://twitter.com/mepranjal31) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalrastogi31)](https://www.linkedin.com/in/pranjalrastogi31) [![Medium Badge](https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pranjalrastogi1998/)](https://medium.com/@pranjalrastogi1998)
 [![Gmail Badge](https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalrastogi1998@gmail.com)](mailto:pranjalrastogi1998@gmail.com)
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mepranjal31/" />
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=prankshaw.prankshaw) -->
 ---
 
