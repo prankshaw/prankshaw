@@ -1,10 +1,5 @@
 <h1 align='center'> Hi There! 👋 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=prankshaw.prankshaw" alt="visitor badge"></a></h1>
 <p align='center'> <samp>Software Developer | Content Writer | Data Analyst</samp></p>
-<!--
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mepranjal31)](https://twitter.com/mepranjal31) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalrastogi31)](https://www.linkedin.com/in/pranjalrastogi31) [![Medium Badge](https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pranjalrastogi1998/)](https://medium.com/@pranjalrastogi1998)
-[![Gmail Badge](https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalrastogi1998@gmail.com)](mailto:pranjalrastogi1998@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prankshaw.prankshaw) 
---- -->
 
 <div align="center">
   
@@ -18,26 +13,21 @@
 <!--
 <a href="https://prankshaw.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="prankshaw.github.io"></a>
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>-->
-
 </div>
 
 
 #### I'm a Computer Science Engineer from New Delhi, India. Besides coding, I love to read a lot and write a bit
 
-## 😄 Know About Me: ...
+### 😄 Know About Me: ...
 * 🔖 Discover my [Website](https://prankshaw.github.io/)<br/>
 * 💼 Hire Me [Resume](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0) <br/>
-<!--
-* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
-* 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
-- Personal site: https://prankshaw.github.io/ <br>
-You can contact me over any platform with an introduction about you. I will be waiting for your messages.
--->
 
-## 🔭 My Skills
+### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
 :-------------------------:|:-------------------------:
 ![](https://github.com/prankshaw/prankshaw/blob/master/mypack2.png)  |  ![](https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true)
+
+
 
 
 <!--
@@ -45,6 +35,18 @@ You can contact me over any platform with an introduction about you. I will be w
   <img align="right" alt="My Skills" src="https://github.com/prankshaw/prankshaw/blob/master/mypack2.png" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true" alt="Pranjal's Github Stats">
 </p>
+<!--
+* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/prankshaw) <br/>
+* 📫 Contact me [@mepranjal31](https://twitter.com/mepranjal31)
+- Personal site: https://prankshaw.github.io/ <br>
+You can contact me over any platform with an introduction about you. I will be waiting for your messages.
+-->
+<!--
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mepranjal31)](https://twitter.com/mepranjal31) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalrastogi31)](https://www.linkedin.com/in/pranjalrastogi31) [![Medium Badge](https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pranjalrastogi1998/)](https://medium.com/@pranjalrastogi1998)
+[![Gmail Badge](https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalrastogi1998@gmail.com)](mailto:pranjalrastogi1998@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=prankshaw.prankshaw) 
+--- -->
+<!--
 **prankshaw/prankshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
