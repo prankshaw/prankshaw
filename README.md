@@ -1,4 +1,4 @@
-<h1 align='center'> Hi There! 👋 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=prankshaw.prankshaw" alt="visitor badge"></a></h1>
+<h1 align='center'> Hi There! 👋 <!--<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=prankshaw.prankshaw" alt="visitor badge"></a>--></h1>
 <p align='center'> <samp>Software Developer | Content Writer | Data Analyst</samp></p>
 
 <div align="center">
