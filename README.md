@@ -25,7 +25,7 @@
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
 :-------------------------:|:-------------------------:
-![](https://github.com/prankshaw/prankshaw/blob/master/mypack2.png)  |  ![](https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true)
+![](https://github.com/prankshaw/prankshaw/blob/master/mypack2.png)  |  ![](https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true&theme=radical)
 
 
 
