@@ -16,11 +16,11 @@
 </div>
 
 
-#### I'm a Computer Science Engineer from New Delhi, India. Besides coding, I love to read a lot and write a bit
+#### I'm a Computer Science Engineer from New Delhi, India. Besides coding, I love to read a lot and write a bit. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
 
-### 😄 Know About Me: ...
+#### 😄 Know About Me: ...
 * 🔖 Discover my [Website](https://prankshaw.github.io/)<br/>
-* 💼 Hire Me [Resume](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0) <br/>
+* 💼 Hire Me <b>[Resume](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)</b> <br/>
 
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
