@@ -18,7 +18,7 @@
 
 #### I'm a Computer Science Engineer from New Delhi, India. Besides coding, I love to read a lot and write a bit. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
 
-#### 😄 #Open for Jobs. Know About Me: ...
+#### 😄 Know About Me: ...
 * 🔖 Discover my [Website](https://prankshaw.github.io/)<br/>
 * 🌱 I’m currently working with [@ZS Associates](https://github.com/ZS)
 <!--* 💼 Hire Me <b>[Resume](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)</b> <br/> -->
