@@ -20,7 +20,7 @@
 
 #### 😄 Know About Me: ...
 * 🔖 Discover my [Website](https://prankshaw.github.io/)<br/>
-* 🌱 I’m currently working with [@ZS Associates](https://github.com/ZS) in the Continuous Improvement team with Commercial Analytics Hub.
+* 🌱 Ex-[@ZS](https://github.com/ZS), I’m currently working with [@Groww](https://github.com/Groww), in the payments team, to develop and integrate solutions on platform.
 <!--* 💼 Hire Me <b>[Resume](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)</b> <br/> -->
 
 ### 💼 Hire Me- [My Resume](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
