@@ -1,5 +1,5 @@
 <h1 align='center'> Hi There! 👋 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=prankshaw.prankshaw" alt="visitor badge"></a></h1>
-<p align='center'> <samp>Software Developer | Content Writer | Data Analyst</samp></p>
+<p align='center'> <samp>Software Developer | Content Writer | Data Engineer</samp></p>
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 </div>
 
 
-#### I'm a Computer Science Engineer, working as a Software Developer from New Delhi, India. Besides coding, I love to read a lot and write a bit. Feel free to reach out to me. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
+#### I'm a Software Developer at [@Groww](https://github.com/Groww), Computer Science Engineer graduate based out of New Delhi, India. Besides coding, I love to read a lot and write a bit. Feel free to reach out to me. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
 
 #### 😄 Know About Me: ...
 * 🔖 Discover my [Website](https://prankshaw.github.io/)<br/>
