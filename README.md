@@ -16,7 +16,7 @@
 </div>
 
 
-#### I'm a Software Developer(Backend) in Payments at [@Groww](https://github.com/Groww), Computer Science Engineer graduate based out of New Delhi, India. Besides coding, I love to read a lot and write a bit. Feel free to reach out to me. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
+#### I'm a Software Developer(Backend) in Payments [@Groww](https://groww.in/), Computer Science Engineer graduate based out of New Delhi, India. Besides coding, I love to read a lot and write a bit. Feel free to reach out to me. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
 
 #### 😄 Know About Me: ...
 * 🔖 Discover my [Website](https://prankshaw.github.io/)<br/>
