@@ -26,11 +26,11 @@
                   src="https://img.shields.io/twitter/follow/mepranjal31?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                   
 
-### 💼 Hire Me
+### 💼 Hire Me ⬇️
 <a href = "https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0" target="_blank"><img src = "https://img.shields.io/badge/RESUME-Pranjal%20Rastogi-blueviolet?style=for-the-badge" /></a>
 
 
-### 🔭 My Skills
+### 🔭 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
