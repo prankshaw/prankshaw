@@ -68,6 +68,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 
+Find my company's tech stack here: https://stackshare.io/groww/groww
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
