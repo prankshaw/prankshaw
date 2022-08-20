@@ -15,12 +15,12 @@
 </div>
 
 
-#### I'm a Software Developer(Backend) in Payments[@Intuit](https://www.intuit.com/in/) Ex-[@Groww](https://groww.in/), Computer Science Engineer, graduated in 2020 and based out of India🇮🇳. Besides coding, I love to read a lot and write a bit. Feel free to reach out to me. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
+#### I'm a Software Developer(Backend) in Payments[@Intuit](https://www.intuit.com/in/), ex-[@Groww](https://groww.in/), Computer Science Engineer, graduated in 2020 and based out of India🇮🇳. Besides coding, I love to read a lot and write a bit. Feel free to reach out to me. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
 
 #### 😄 Know About Me: ...
 *   🌍  Delhi | Bengaluru
 * 🔖 Discover my websiite - [prankshaw.github.io](https://prankshaw.github.io/) and contact me at 📨 [pranjalrastogi1998@gmail.com](mailto:pranjalrastogi1998@gmail.com)<br/>
-* 🌱 Ex-[@ZS](https://github.com/ZS), I’m currently working with [@Groww](https://github.com/Groww), in the payments team, to develop and integrate solutions on platform.
+* 🌱 Ex-[@ZS](https://github.com/ZS), I’m currently working with [@Intuit](https://www.intuit.com/in/), in the payments team, to develop and integrate solutions on platform.
 
 <a href="https://www.twitter.com/mepranjal31" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/mepranjal31?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
