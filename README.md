@@ -15,7 +15,7 @@
 </div>
 
 
-#### I'm a Software Developer(Backend) in Payments [@Groww](https://groww.in/), Computer Science Engineer, graduated in 2020 and based out of India🇮🇳. Besides coding, I love to read a lot and write a bit. Feel free to reach out to me. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
+#### I'm a Software Developer(Backend) in Payments[@Intuit](https://www.intuit.com/in/) Ex-[@Groww](https://groww.in/), Computer Science Engineer, graduated in 2020 and based out of India🇮🇳. Besides coding, I love to read a lot and write a bit. Feel free to reach out to me. [Get My Resume!](https://www.dropbox.com/s/a82jo1a70ks27el/Pranjal%20Rastogi%20Resume.pdf?dl=0)
 
 #### 😄 Know About Me: ...
 *   🌍  Delhi | Bengaluru
